@@ -16,4 +16,4 @@ app.register_blueprint(about_bp)
 app.register_blueprint(contact_bp)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
